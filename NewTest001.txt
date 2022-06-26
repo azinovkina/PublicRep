@@ -1,3 +1,5 @@
 Hello, my dear friends!
 becit git log ne rabotaet
 953 zadanie
+
+Change for 9.7.1
